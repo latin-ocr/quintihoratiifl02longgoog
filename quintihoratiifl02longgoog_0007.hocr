@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintihoratiifl02longgoog_0007.png"; bbox 0 0 2217 3559; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 901 1368 1350 1499">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 901 1368 1350 1499">
+     <span class='ocr_line' id='line_1_1' title="bbox 901 1368 1350 1499; baseline -0.016 -26"><span class='ocrx_word' id='word_1_1' title='bbox 901 1368 1350 1499; x_wconf 66' lang='lat' dir='ltr'>ffiarpet&#39;ss</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 454 1685 1797 1808">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 454 1685 1797 1808">
+     <span class='ocr_line' id='line_1_2' title="bbox 454 1685 1797 1808; baseline -0.013 0"><span class='ocrx_word' id='word_1_2' title='bbox 454 1702 782 1808; x_wconf 53' lang='lat' dir='ltr'>&amp;reeh</span> <span class='ocrx_word' id='word_1_3' title='bbox 858 1700 1038 1802; x_wconf 75' lang='grc' dir='ltr'>αηὺ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1119 1693 1400 1801; x_wconf 61' lang='lat' dir='ltr'>fiatin</span> <span class='ocrx_word' id='word_1_5' title='bbox 1468 1685 1797 1798; x_wconf 56' lang='lat' dir='ltr'>&amp;meta</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
